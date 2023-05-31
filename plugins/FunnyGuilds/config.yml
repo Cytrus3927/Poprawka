@@ -83,7 +83,7 @@ name-regex: LETTERS
 
 # Zasada sprawdzania tagu gildii przy jej tworzeniu
 # Możliwe zasady są takie same jak w przypadku name-regex
-tag-regex: LETTERS
+tag-regex: UPPERCASE
 
 # Zasada sprawdzania nicków graczy
 # Możliwe zasady są takie same jak w przypadku name-regex
