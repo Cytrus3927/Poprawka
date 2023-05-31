@@ -1,0 +1,2 @@
+&6Witaje, {PLAYER}&6!
+&6Gracze online:&c {ONLINE} &6- Czas:&c {WORLDTIME12}

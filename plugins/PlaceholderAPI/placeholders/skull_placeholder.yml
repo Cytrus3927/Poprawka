@@ -1,0 +1,6 @@
+placeholder:
+  skull_placeholder:
+    on-request:
+      - execute-command:
+          command: Skulls_has_skull
+          output: '&6{value}☠'

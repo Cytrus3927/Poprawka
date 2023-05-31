@@ -1,0 +1,13 @@
+ddereload: Reload config file.
+noperm: You do not have the permission (<perm>).
+newvers: New version available!
+inventoryfull: Inventory Full!
+elytradroppedat: Elytra dropped at
+addedtoinventory: Elytra has been added to your inventory.
+elytraplacedinchest: Elytra placed in chest at
+chancepercentwrong: chancepercent is not higher than 0.00, or under 0.99.
+notifyserveradmin: Notify server admin
+reloaded: has been reloaded.
+killer_null: Killer is null
+head_dropped_at: Dragon Head dropped at
+egg_dropped_at: Dragon Egg dropped at

@@ -1,0 +1,400 @@
+[maja 27, 2023 15:37:19.764PM CEST] EntityDamageByEntityEvent was triggered by damaged IRON_GOLEM Iron Golem, damager ZOMBIE Zombie and cancelled false.
+[maja 27, 2023 15:37:19.801PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager IRON_GOLEM Iron Golem and cancelled false.
+[maja 27, 2023 15:37:20.102PM CEST] EntityDamageByEntityEvent was triggered by damaged VILLAGER Villager, damager ZOMBIE Zombie and cancelled false.
+[maja 27, 2023 15:37:20.799PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager IRON_GOLEM Iron Golem and cancelled false.
+[maja 27, 2023 15:37:27.797PM CEST] EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 15:37:46.599PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 15:37:48.049PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 15:37:51.499PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 15:37:52.950PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 15:46:03.900PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 15:46:04.898PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 15:50:35.246PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 16:20:50.913PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 16:20:51.907PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 16:27:04.757PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 16:27:06.754PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 16:32:49.102PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 16:32:51.004PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 16:44:25.905PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled true.
+[maja 27, 2023 16:48:48.106PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled true.
+[maja 27, 2023 16:58:43.155PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled true.
+[maja 27, 2023 16:59:51.103PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled true.
+[maja 27, 2023 16:59:56.204PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled true.
+[maja 27, 2023 17:00:01.253PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled true.
+[maja 27, 2023 17:01:43.405PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled true.
+[maja 27, 2023 17:04:38.753PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 17:04:40.303PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 17:04:55.156PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 17:04:56.206PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 17:18:07.054PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled true.
+[maja 27, 2023 17:19:54.854PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled true.
+[maja 27, 2023 17:20:08.456PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 17:20:09.454PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 17:21:22.759PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 17:21:23.756PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 17:25:32.654PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 17:25:33.654PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 17:37:36.258PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled true.
+[maja 27, 2023 18:37:58.759PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER wojtek337, damager ZOMBIE Zombie and cancelled false.
+[maja 27, 2023 18:37:59.356PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER wojtek337, damager ZOMBIE Zombie and cancelled false.
+[maja 27, 2023 18:38:00.357PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER wojtek337, damager ZOMBIE Zombie and cancelled false.
+[maja 27, 2023 18:38:01.358PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER wojtek337, damager ZOMBIE Zombie and cancelled false.
+[maja 27, 2023 18:38:02.505PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER wojtek337, damager ZOMBIE Zombie and cancelled false.
+[maja 27, 2023 18:38:02.936PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:38:03.383PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:38:04.184PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:38:04.380PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:38:05.282PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:38:05.483PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:38:05.681PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:38:05.883PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:38:07.034PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:38:07.481PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:39:00.012PM CEST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE, reason UNKNOWN, and cancelled false.
+[maja 27, 2023 18:39:00.018PM CEST] PlayerTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE and reason UNKNOWN.
+[maja 27, 2023 18:39:00.455PM CEST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE, reason UNKNOWN, and cancelled false.
+[maja 27, 2023 18:39:00.457PM CEST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE and reason UNKNOWN.
+[maja 27, 2023 18:39:10.605PM CEST] PlayerUntagEvent was triggered on {player_name} with reason {untag_reason} and expire set to {was_expire}.
+[maja 27, 2023 18:39:10.607PM CEST] PlayerUntagEvent was triggered on {player_name} with reason EXPIRE and expire set to true.
+[maja 27, 2023 18:40:04.957PM CEST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE, reason UNKNOWN, and cancelled false.
+[maja 27, 2023 18:40:04.957PM CEST] PlayerTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE and reason UNKNOWN.
+[maja 27, 2023 18:40:05.406PM CEST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE, reason UNKNOWN, and cancelled false.
+[maja 27, 2023 18:40:05.407PM CEST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE and reason UNKNOWN.
+[maja 27, 2023 18:40:15.605PM CEST] PlayerUntagEvent was triggered on {player_name} with reason {untag_reason} and expire set to {was_expire}.
+[maja 27, 2023 18:40:15.606PM CEST] PlayerUntagEvent was triggered on {player_name} with reason EXPIRE and expire set to true.
+[maja 27, 2023 18:40:40.556PM CEST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE, reason UNKNOWN, and cancelled false.
+[maja 27, 2023 18:40:40.556PM CEST] PlayerTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE and reason UNKNOWN.
+[maja 27, 2023 18:40:46.206PM CEST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE, reason UNKNOWN, and cancelled false.
+[maja 27, 2023 18:40:46.207PM CEST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE and reason UNKNOWN.
+[maja 27, 2023 18:40:56.601PM CEST] PlayerUntagEvent was triggered on {player_name} with reason {untag_reason} and expire set to {was_expire}.
+[maja 27, 2023 18:40:56.603PM CEST] PlayerUntagEvent was triggered on {player_name} with reason EXPIRE and expire set to true.
+[maja 27, 2023 18:41:41.456PM CEST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE, reason UNKNOWN, and cancelled false.
+[maja 27, 2023 18:41:41.457PM CEST] PlayerTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE and reason UNKNOWN.
+[maja 27, 2023 18:41:51.603PM CEST] PlayerUntagEvent was triggered on {player_name} with reason {untag_reason} and expire set to {was_expire}.
+[maja 27, 2023 18:41:51.603PM CEST] PlayerUntagEvent was triggered on {player_name} with reason EXPIRE and expire set to true.
+[maja 27, 2023 18:42:04.905PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER wojtek337, damager ZOMBIE Zombie and cancelled false.
+[maja 27, 2023 18:42:05.203PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER wojtek337, damager ZOMBIE Zombie and cancelled true.
+[maja 27, 2023 18:42:06.204PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER wojtek337, damager ZOMBIE Zombie and cancelled false.
+[maja 27, 2023 18:42:07.206PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER wojtek337, damager ZOMBIE Zombie and cancelled false.
+[maja 27, 2023 18:42:07.682PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:07.881PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:42:08.080PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:08.285PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:08.431PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:42:08.631PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:08.780PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:08.982PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:42:09.132PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:09.282PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:42:09.431PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:42:09.582PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:09.732PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:42:09.883PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:42:10.781PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:10.931PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:42:11.631PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:11.782PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:42:11.932PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:12.481PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:12.681PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:42:26.453PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER wojtek337, damager ZOMBIE Zombie and cancelled false.
+[maja 27, 2023 18:42:27.055PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER wojtek337, damager ZOMBIE Zombie and cancelled false.
+[maja 27, 2023 18:42:27.282PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:27.433PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:27.582PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:42:27.782PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:27.981PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:42:28.132PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:28.331PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:28.483PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:42:28.682PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:28.882PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:29.032PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:42:29.231PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:29.384PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:29.531PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:42:29.680PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:42:29.831PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:30.029PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:42:30.379PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:30.532PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:30.731PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:42:31.031PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:31.582PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:31.732PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:42:31.929PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:42:32.129PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:32.282PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:42:32.481PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:42:32.631PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:32.753PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER wojtek337, damager ZOMBIE Zombie and cancelled false.
+[maja 27, 2023 18:42:32.831PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:42:33.181PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:33.381PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:33.532PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:42:33.731PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:33.933PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:34.132PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:34.331PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:42:34.481PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:34.681PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:42:34.831PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:42:35.581PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:43:52.756PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER wojtek337, damager SPIDER Spider and cancelled false.
+[maja 27, 2023 18:43:53.806PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER wojtek337, damager SPIDER Spider and cancelled false.
+[maja 27, 2023 18:43:54.806PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER wojtek337, damager SPIDER Spider and cancelled false.
+[maja 27, 2023 18:43:55.531PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:43:55.731PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:43:55.906PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER wojtek337, damager SPIDER Spider and cancelled false.
+[maja 27, 2023 18:43:56.082PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:43:56.232PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:43:56.632PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:43:56.782PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:43:56.932PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:43:57.232PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:43:57.381PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:43:57.532PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:43:57.731PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:43:57.932PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:43:58.054PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER wojtek337, damager SPIDER Spider and cancelled false.
+[maja 27, 2023 18:43:58.080PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:43:58.283PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:43:59.131PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:43:59.332PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:43:59.531PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:43:59.683PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:43:59.882PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:44:00.231PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:44:00.429PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:44:00.580PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:44:00.731PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:44:00.881PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:44:01.082PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:44:01.281PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:44:01.482PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:44:01.633PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:44:01.833PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:44:01.981PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:44:02.532PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:44:02.732PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:44:03.183PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:44:03.458PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER wojtek337, damager SPIDER Spider and cancelled false.
+[maja 27, 2023 18:44:03.532PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled true.
+[maja 27, 2023 18:44:04.131PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:44:04.331PM CEST] EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER wojtek337 and cancelled false.
+[maja 27, 2023 18:45:42.668PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER wojtek337, damager CREEPER Creeper and cancelled false.
+[maja 27, 2023 18:45:42.669PM CEST] EntityDamageByEntityEvent was triggered by damaged DROPPED_ITEM Rotten Flesh, damager CREEPER Creeper and cancelled false.
+[maja 27, 2023 18:45:42.670PM CEST] EntityDamageByEntityEvent was triggered by damaged DROPPED_ITEM String, damager CREEPER Creeper and cancelled false.
+[maja 27, 2023 18:46:05.661PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER wojtek337, damager ARROW Arrow and cancelled false.
+[maja 27, 2023 18:47:56.655PM CEST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE, reason UNKNOWN, and cancelled false.
+[maja 27, 2023 18:47:56.656PM CEST] PlayerTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE and reason UNKNOWN.
+[maja 27, 2023 18:47:57.106PM CEST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE, reason UNKNOWN, and cancelled false.
+[maja 27, 2023 18:47:57.107PM CEST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE and reason UNKNOWN.
+[maja 27, 2023 18:47:59.956PM CEST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE, reason UNKNOWN, and cancelled false.
+[maja 27, 2023 18:47:59.956PM CEST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE and reason UNKNOWN.
+[maja 27, 2023 18:48:00.406PM CEST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE, reason UNKNOWN, and cancelled false.
+[maja 27, 2023 18:48:00.406PM CEST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE and reason UNKNOWN.
+[maja 27, 2023 18:48:07.006PM CEST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE, reason UNKNOWN, and cancelled false.
+[maja 27, 2023 18:48:07.007PM CEST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE and reason UNKNOWN.
+[maja 27, 2023 18:48:07.456PM CEST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE, reason UNKNOWN, and cancelled false.
+[maja 27, 2023 18:48:07.456PM CEST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE and reason UNKNOWN.
+[maja 27, 2023 18:48:17.602PM CEST] PlayerUntagEvent was triggered on {player_name} with reason {untag_reason} and expire set to {was_expire}.
+[maja 27, 2023 18:48:17.602PM CEST] PlayerUntagEvent was triggered on {player_name} with reason EXPIRE and expire set to true.
+[maja 27, 2023 18:48:31.505PM CEST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE, reason UNKNOWN, and cancelled false.
+[maja 27, 2023 18:48:31.506PM CEST] PlayerTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE and reason UNKNOWN.
+[maja 27, 2023 18:48:31.956PM CEST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE, reason UNKNOWN, and cancelled false.
+[maja 27, 2023 18:48:31.957PM CEST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE and reason UNKNOWN.
+[maja 27, 2023 18:48:42.100PM CEST] PlayerUntagEvent was triggered on {player_name} with reason {untag_reason} and expire set to {was_expire}.
+[maja 27, 2023 18:48:42.100PM CEST] PlayerUntagEvent was triggered on {player_name} with reason EXPIRE and expire set to true.
+[maja 27, 2023 18:54:54.155PM CEST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE, reason UNKNOWN, and cancelled false.
+[maja 27, 2023 18:54:54.157PM CEST] PlayerTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE and reason UNKNOWN.
+[maja 27, 2023 18:54:54.608PM CEST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE, reason UNKNOWN, and cancelled false.
+[maja 27, 2023 18:54:54.608PM CEST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE and reason UNKNOWN.
+[maja 27, 2023 18:55:00.506PM CEST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE, reason UNKNOWN, and cancelled false.
+[maja 27, 2023 18:55:00.506PM CEST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE and reason UNKNOWN.
+[maja 27, 2023 18:55:00.956PM CEST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE, reason UNKNOWN, and cancelled false.
+[maja 27, 2023 18:55:00.956PM CEST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type DAMAGE and reason UNKNOWN.
+[maja 27, 2023 18:55:11.103PM CEST] PlayerUntagEvent was triggered on {player_name} with reason {untag_reason} and expire set to {was_expire}.
+[maja 27, 2023 18:55:11.103PM CEST] PlayerUntagEvent was triggered on {player_name} with reason EXPIRE and expire set to true.
+[maja 27, 2023 21:18:04.842PM CEST] EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 21:19:54.620PM CEST] EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 21:21:06.471PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 21:21:07.569PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled true.
+[maja 27, 2023 21:21:08.568PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 21:21:16.168PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager IRON_GOLEM Iron Golem and cancelled false.
+[maja 27, 2023 21:21:17.168PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager IRON_GOLEM Iron Golem and cancelled true.
+[maja 27, 2023 21:21:17.171PM CEST] EntityDamageByEntityEvent was triggered by damaged IRON_GOLEM Iron Golem, damager ZOMBIE Zombie and cancelled true.
+[maja 27, 2023 21:21:18.169PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager IRON_GOLEM Iron Golem and cancelled false.
+[maja 27, 2023 21:21:34.618PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager IRON_GOLEM Iron Golem and cancelled false.
+[maja 27, 2023 21:21:35.619PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager IRON_GOLEM Iron Golem and cancelled false.
+[maja 27, 2023 21:21:36.619PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager IRON_GOLEM Iron Golem and cancelled false.
+[maja 27, 2023 21:21:50.919PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager IRON_GOLEM Iron Golem and cancelled false.
+[maja 27, 2023 21:21:51.918PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager IRON_GOLEM Iron Golem and cancelled false.
+[maja 27, 2023 21:21:52.820PM CEST] EntityDamageByEntityEvent was triggered by damaged IRON_GOLEM Iron Golem, damager ZOMBIE Zombie and cancelled true.
+[maja 27, 2023 21:21:52.969PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager IRON_GOLEM Iron Golem and cancelled false.
+[maja 27, 2023 21:21:53.969PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager IRON_GOLEM Iron Golem and cancelled false.
+[maja 27, 2023 21:22:08.817PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager IRON_GOLEM Iron Golem and cancelled false.
+[maja 27, 2023 21:22:09.818PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager IRON_GOLEM Iron Golem and cancelled false.
+[maja 27, 2023 21:25:21.719PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 21:25:22.971PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 21:25:33.268PM CEST] EntityDamageByEntityEvent was triggered by damaged RABBIT Rabbit, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 21:26:20.570PM CEST] EntityDamageByEntityEvent was triggered by damaged RABBIT Rabbit, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 21:30:50.269PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 21:30:52.270PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 21:31:45.368PM CEST] EntityDamageByEntityEvent was triggered by damaged RABBIT Rabbit, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 21:34:59.918PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager IRON_GOLEM Iron Golem and cancelled false.
+[maja 27, 2023 21:35:00.869PM CEST] EntityDamageByEntityEvent was triggered by damaged IRON_GOLEM Iron Golem, damager ZOMBIE Zombie and cancelled true.
+[maja 27, 2023 21:35:00.918PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager IRON_GOLEM Iron Golem and cancelled false.
+[maja 27, 2023 21:35:04.618PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager IRON_GOLEM Iron Golem and cancelled false.
+[maja 27, 2023 21:35:05.618PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager IRON_GOLEM Iron Golem and cancelled false.
+[maja 27, 2023 21:35:06.368PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled true.
+[maja 27, 2023 21:35:09.119PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager IRON_GOLEM Iron Golem and cancelled false.
+[maja 27, 2023 21:35:09.121PM CEST] EntityDamageByEntityEvent was triggered by damaged IRON_GOLEM Iron Golem, damager ZOMBIE Zombie and cancelled false.
+[maja 27, 2023 21:35:09.270PM CEST] EntityDamageByEntityEvent was triggered by damaged IRON_GOLEM Iron Golem, damager ZOMBIE Zombie and cancelled true.
+[maja 27, 2023 21:35:10.119PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager IRON_GOLEM Iron Golem and cancelled false.
+[maja 27, 2023 21:35:10.620PM CEST] EntityDamageByEntityEvent was triggered by damaged IRON_GOLEM Iron Golem, damager ZOMBIE Zombie and cancelled false.
+[maja 27, 2023 21:35:10.770PM CEST] EntityDamageByEntityEvent was triggered by damaged IRON_GOLEM Iron Golem, damager ZOMBIE Zombie and cancelled true.
+[maja 27, 2023 21:35:10.820PM CEST] EntityDamageByEntityEvent was triggered by damaged IRON_GOLEM Iron Golem, damager ZOMBIE Zombie and cancelled true.
+[maja 27, 2023 21:35:11.021PM CEST] EntityDamageByEntityEvent was triggered by damaged IRON_GOLEM Iron Golem, damager ZOMBIE Zombie and cancelled true.
+[maja 27, 2023 21:35:11.119PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager IRON_GOLEM Iron Golem and cancelled false.
+[maja 27, 2023 21:35:11.470PM CEST] EntityDamageByEntityEvent was triggered by damaged IRON_GOLEM Iron Golem, damager ZOMBIE Zombie and cancelled false.
+[maja 27, 2023 21:36:51.069PM CEST] EntityDamageByEntityEvent was triggered by damaged RABBIT Rabbit, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 21:37:59.919PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled true.
+[maja 27, 2023 21:39:40.970PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled true.
+[maja 27, 2023 21:58:36.684PM CEST] EntityDamageByEntityEvent was triggered by damaged ITEM_FRAME Item Frame, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:11:54.271PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager PLAYER BEDEK420 and cancelled true.
+[maja 27, 2023 22:11:54.722PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager PLAYER BEDEK420 and cancelled true.
+[maja 27, 2023 22:11:55.370PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager PLAYER BEDEK420 and cancelled true.
+[maja 27, 2023 22:11:55.808PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager PLAYER BEDEK420 and cancelled true.
+[maja 27, 2023 22:12:11.672PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager PLAYER BEDEK420 and cancelled true.
+[maja 27, 2023 22:12:12.119PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager PLAYER BEDEK420 and cancelled true.
+[maja 27, 2023 22:12:12.521PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager PLAYER BEDEK420 and cancelled true.
+[maja 27, 2023 22:12:15.679PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager CREEPER Creeper and cancelled true.
+[maja 27, 2023 22:12:19.020PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager ZOMBIE Zombie and cancelled true.
+[maja 27, 2023 22:12:19.220PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager SPIDER Spider and cancelled true.
+[maja 27, 2023 22:12:19.321PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager ZOMBIE Zombie and cancelled true.
+[maja 27, 2023 22:12:19.469PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager ZOMBIE Zombie and cancelled true.
+[maja 27, 2023 22:12:19.820PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager ZOMBIE Zombie and cancelled true.
+[maja 27, 2023 22:12:20.223PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager SPIDER Spider and cancelled true.
+[maja 27, 2023 22:12:20.377PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager ARROW Arrow and cancelled false.
+[maja 27, 2023 22:12:21.222PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager SPIDER Spider and cancelled true.
+[maja 27, 2023 22:12:22.269PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager SPIDER Spider and cancelled true.
+[maja 27, 2023 22:12:22.819PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager ZOMBIE Zombie and cancelled true.
+[maja 27, 2023 22:12:23.270PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager SPIDER Spider and cancelled true.
+[maja 27, 2023 22:12:23.669PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager ZOMBIE Zombie and cancelled true.
+[maja 27, 2023 22:12:24.870PM CEST] EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager ZOMBIE Zombie and cancelled false.
+[maja 27, 2023 22:12:25.921PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager ARROW Arrow and cancelled true.
+[maja 27, 2023 22:12:26.070PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager ARROW Arrow and cancelled false.
+[maja 27, 2023 22:12:26.722PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager SPIDER Spider and cancelled true.
+[maja 27, 2023 22:12:27.722PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager SPIDER Spider and cancelled true.
+[maja 27, 2023 22:12:27.922PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager PLAYER BEDEK420 and cancelled true.
+[maja 27, 2023 22:12:28.228PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager PLAYER BEDEK420 and cancelled true.
+[maja 27, 2023 22:12:28.371PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager PLAYER BEDEK420 and cancelled true.
+[maja 27, 2023 22:12:28.600PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager PLAYER BEDEK420 and cancelled true.
+[maja 27, 2023 22:12:28.721PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager SPIDER Spider and cancelled true.
+[maja 27, 2023 22:12:28.772PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager PLAYER BEDEK420 and cancelled true.
+[maja 27, 2023 22:12:28.919PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager ARROW Arrow and cancelled true.
+[maja 27, 2023 22:12:28.970PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager PLAYER BEDEK420 and cancelled true.
+[maja 27, 2023 22:12:29.070PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager ARROW Arrow and cancelled false.
+[maja 27, 2023 22:12:29.719PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager SPIDER Spider and cancelled true.
+[maja 27, 2023 22:12:29.870PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager ZOMBIE Zombie and cancelled true.
+[maja 27, 2023 22:12:32.075PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager ARROW Arrow and cancelled false.
+[maja 27, 2023 22:12:35.069PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager ARROW Arrow and cancelled false.
+[maja 27, 2023 22:12:37.265PM CEST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKER, and cancelled false.
+[maja 27, 2023 22:12:37.269PM CEST] PlayerTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKER.
+[maja 27, 2023 22:12:37.278PM CEST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKED, and cancelled false.
+[maja 27, 2023 22:12:37.278PM CEST] PlayerTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKED.
+[maja 27, 2023 22:12:37.281PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager PLAYER BEDEK420 and cancelled false.
+[maja 27, 2023 22:12:38.073PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager ARROW Arrow and cancelled false.
+[maja 27, 2023 22:12:41.071PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager ARROW Arrow and cancelled false.
+[maja 27, 2023 22:12:47.471PM CEST] PlayerUntagEvent was triggered on {player_name} with reason {untag_reason} and expire set to {was_expire}.
+[maja 27, 2023 22:12:47.471PM CEST] PlayerUntagEvent was triggered on {player_name} with reason EXPIRE and expire set to true.
+[maja 27, 2023 22:12:47.473PM CEST] PlayerUntagEvent was triggered on {player_name} with reason {untag_reason} and expire set to {was_expire}.
+[maja 27, 2023 22:12:47.473PM CEST] PlayerUntagEvent was triggered on {player_name} with reason EXPIRE and expire set to true.
+[maja 27, 2023 22:12:49.809PM CEST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKER, and cancelled false.
+[maja 27, 2023 22:12:49.809PM CEST] PlayerTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKER.
+[maja 27, 2023 22:12:49.810PM CEST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKED, and cancelled false.
+[maja 27, 2023 22:12:49.810PM CEST] PlayerTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKED.
+[maja 27, 2023 22:12:49.810PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager PLAYER BEDEK420 and cancelled false.
+[maja 27, 2023 22:12:51.975PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER Cytrus3927, damager CREEPER Creeper and cancelled false.
+[maja 27, 2023 22:12:51.978PM CEST] EntityDamageByEntityEvent was triggered by damaged ZOMBIE Zombie, damager CREEPER Creeper and cancelled false.
+[maja 27, 2023 22:12:59.965PM CEST] PlayerUntagEvent was triggered on {player_name} with reason {untag_reason} and expire set to {was_expire}.
+[maja 27, 2023 22:12:59.965PM CEST] PlayerUntagEvent was triggered on {player_name} with reason EXPIRE and expire set to true.
+[maja 27, 2023 22:12:59.965PM CEST] PlayerUntagEvent was triggered on {player_name} with reason {untag_reason} and expire set to {was_expire}.
+[maja 27, 2023 22:12:59.967PM CEST] PlayerUntagEvent was triggered on {player_name} with reason EXPIRE and expire set to true.
+[maja 27, 2023 22:18:25.235PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:18:25.685PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:18:26.085PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:18:26.285PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:18:35.436PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:18:35.635PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:18:36.639PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:18:36.834PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:18:37.084PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:18:37.233PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:18:37.435PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:18:37.585PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:18:37.785PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:18:37.984PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:18:38.186PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:18:38.334PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:18:38.536PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:18:38.734PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:18:38.936PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:18:39.134PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:18:39.335PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:18:39.535PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:18:40.384PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:18:53.985PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:18:54.533PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:18:54.984PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:18:55.236PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:18:55.687PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:18:55.933PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:18:56.136PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:18:56.334PM CEST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKER, and cancelled true.
+[maja 27, 2023 22:18:56.334PM CEST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKED, and cancelled false.
+[maja 27, 2023 22:18:56.335PM CEST] PlayerTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKED.
+[maja 27, 2023 22:18:56.335PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled false.
+[maja 27, 2023 22:18:56.536PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:18:56.787PM CEST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKER, and cancelled true.
+[maja 27, 2023 22:18:56.787PM CEST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKED, and cancelled false.
+[maja 27, 2023 22:18:56.788PM CEST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKED.
+[maja 27, 2023 22:18:56.788PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled false.
+[maja 27, 2023 22:18:57.185PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled true.
+[maja 27, 2023 22:18:57.436PM CEST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKER, and cancelled true.
+[maja 27, 2023 22:18:57.437PM CEST] PlayerPreTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER, reason ATTACKED, and cancelled false.
+[maja 27, 2023 22:18:57.437PM CEST] PlayerReTagEvent was triggered on {player_name} by {enemy_name} with type PLAYER and reason ATTACKED.
+[maja 27, 2023 22:18:57.437PM CEST] EntityDamageByEntityEvent was triggered by damaged PLAYER BEDEK420, damager PLAYER Cytrus3927 and cancelled false.
+[maja 27, 2023 22:18:57.446PM CEST] PlayerUntagEvent was triggered on {player_name} with reason {untag_reason} and expire set to {was_expire}.
+[maja 27, 2023 22:18:57.447PM CEST] PlayerUntagEvent was triggered on {player_name} with reason SELF_DEATH and expire set to true.
+[maja 27, 2023 22:19:47.474PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled true.
+[maja 27, 2023 22:20:23.619PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 22:20:25.320PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 22:21:55.569PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled true.
+[maja 27, 2023 22:23:01.170PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled true.
+[maja 27, 2023 22:23:47.970PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled true.
+[maja 27, 2023 22:24:45.870PM CEST] EntityDamageByEntityEvent was triggered by damaged RABBIT Rabbit, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 22:29:07.578PM CEST] EntityDamageByEntityEvent was triggered by damaged WANDERING_TRADER Wandering Trader, damager ZOMBIE Zombie and cancelled false.
+[maja 27, 2023 22:38:15.669PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled true.
+[maja 27, 2023 22:39:17.419PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled true.
+[maja 27, 2023 22:54:08.219PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled true.
+[maja 27, 2023 22:54:36.219PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled true.
+[maja 27, 2023 22:55:48.419PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled true.
+[maja 27, 2023 23:02:37.718PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled true.
+[maja 27, 2023 23:05:35.317PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled true.
+[maja 27, 2023 23:08:44.468PM CEST] EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 23:08:47.117PM CEST] EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 23:08:51.019PM CEST] EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 23:08:54.168PM CEST] EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 23:08:56.517PM CEST] EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 23:09:49.869PM CEST] EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 23:09:51.818PM CEST] EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 23:09:52.919PM CEST] EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 23:09:54.018PM CEST] EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 23:09:55.020PM CEST] EntityDamageByEntityEvent was triggered by damaged SKELETON Skeleton, damager WOLF Wolf and cancelled false.
+[maja 27, 2023 23:32:56.671PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled true.
+[maja 27, 2023 23:34:10.560PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled true.
+[maja 27, 2023 23:34:22.360PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled true.
+[maja 27, 2023 23:35:51.460PM CEST] EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled true.
